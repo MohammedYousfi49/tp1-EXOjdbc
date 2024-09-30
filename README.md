@@ -33,7 +33,7 @@ Pilote JDBC MySQL : Pour établir la connexion entre Java et MySQL.
 NetBeans ou un autre IDE compatible avec Java.
 
 
-
+https://github.com/user-attachments/assets/0cab719f-046a-4de1-b5a8-8c820dfcc739
 
 
 
